@@ -1,2 +1,2 @@
 # CodeChef-Practice-Solutions
-This repository contains solutions for practice problems on CodeChef
+This repository contains java solutions for practice problems on CodeChef
